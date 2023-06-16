@@ -6,7 +6,6 @@
  * of execution and prints it
  * Return: 0 for succes
  */ 
- 
 int main(void)
 {
 	int n;
