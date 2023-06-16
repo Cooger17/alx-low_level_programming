@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * This program output a single line and return 0
+ * main - This program output a single line and return 0
  */
 
 int main(void)
